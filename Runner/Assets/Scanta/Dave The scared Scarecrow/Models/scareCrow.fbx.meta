@@ -1,0 +1,1594 @@
+fileFormatVersion: 2
+guid: b5abe63d46ffa4e8fa7cea10c62361a8
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: crow_rig_0004:Ankle_L
+  - first:
+      1: 100002
+    second: crow_rig_0004:Ankle_R
+  - first:
+      1: 100004
+    second: crow_rig_0004:Chest_M
+  - first:
+      1: 100006
+    second: crow_rig_0004:DeformationSystem
+  - first:
+      1: 100008
+    second: crow_rig_0004:Elbow_L
+  - first:
+      1: 100010
+    second: crow_rig_0004:Elbow_R
+  - first:
+      1: 100012
+    second: crow_rig_0004:Eye_L
+  - first:
+      1: 100014
+    second: crow_rig_0004:Eye_R
+  - first:
+      1: 100016
+    second: crow_rig_0004:EyeEnd_L
+  - first:
+      1: 100018
+    second: crow_rig_0004:EyeEnd_R
+  - first:
+      1: 100020
+    second: crow_rig_0004:facial
+  - first:
+      1: 100022
+    second: crow_rig_0004:Group
+  - first:
+      1: 100024
+    second: crow_rig_0004:group1
+  - first:
+      1: 100026
+    second: crow_rig_0004:Head_M
+  - first:
+      1: 100028
+    second: crow_rig_0004:HeadEnd_M
+  - first:
+      1: 100030
+    second: crow_rig_0004:Hip_L
+  - first:
+      1: 100032
+    second: crow_rig_0004:Hip_R
+  - first:
+      1: 100034
+    second: crow_rig_0004:IndexFinger1_L
+  - first:
+      1: 100036
+    second: crow_rig_0004:IndexFinger1_R
+  - first:
+      1: 100038
+    second: crow_rig_0004:IndexFinger2_L
+  - first:
+      1: 100040
+    second: crow_rig_0004:IndexFinger2_R
+  - first:
+      1: 100042
+    second: crow_rig_0004:Jaw_M
+  - first:
+      1: 100044
+    second: crow_rig_0004:JawEnd_M
+  - first:
+      1: 100046
+    second: crow_rig_0004:jnt_toungh_01
+  - first:
+      1: 100048
+    second: crow_rig_0004:jnt_toungh_02
+  - first:
+      1: 100050
+    second: crow_rig_0004:jnt_toungh_03
+  - first:
+      1: 100052
+    second: crow_rig_0004:jnt_toungh_04
+  - first:
+      1: 100054
+    second: crow_rig_0004:jnt_toungh_05
+  - first:
+      1: 100056
+    second: crow_rig_0004:jnt_toungh_06
+  - first:
+      1: 100058
+    second: crow_rig_0004:jnt_toungh_07
+  - first:
+      1: 100060
+    second: crow_rig_0004:jnt_toungh_08
+  - first:
+      1: 100062
+    second: crow_rig_0004:Knee_L
+  - first:
+      1: 100064
+    second: crow_rig_0004:Knee_R
+  - first:
+      1: 100066
+    second: crow_rig_0004:Leye1
+  - first:
+      1: 100068
+    second: crow_rig_0004:Main
+  - first:
+      1: 100070
+    second: crow_rig_0004:Neck_M
+  - first:
+      1: 100072
+    second: crow_rig_0004:nurbsCircle10
+  - first:
+      1: 100074
+    second: crow_rig_0004:nurbsCircle11
+  - first:
+      1: 100076
+    second: crow_rig_0004:nurbsCircle12
+  - first:
+      1: 100078
+    second: crow_rig_0004:nurbsCircle13
+  - first:
+      1: 100080
+    second: crow_rig_0004:nurbsCircle9
+  - first:
+      1: 100082
+    second: crow_rig_0004:nurbsCircle9 1
+  - first:
+      1: 100084
+    second: crow_rig_0004:nurbsCircle9 2
+  - first:
+      1: 100086
+    second: crow_rig_0004:nurbsCircle9 3
+  - first:
+      1: 100088
+    second: crow_rig_0004:polySurface1
+  - first:
+      1: 100090
+    second: crow_rig_0004:polySurface10
+  - first:
+      1: 100092
+    second: crow_rig_0004:polySurface12
+  - first:
+      1: 100094
+    second: crow_rig_0004:polySurface14
+  - first:
+      1: 100096
+    second: crow_rig_0004:polySurface15
+  - first:
+      1: 100098
+    second: crow_rig_0004:polySurface16
+  - first:
+      1: 100100
+    second: crow_rig_0004:polySurface17
+  - first:
+      1: 100102
+    second: crow_rig_0004:polySurface18
+  - first:
+      1: 100104
+    second: crow_rig_0004:R_eye1
+  - first:
+      1: 100106
+    second: crow_rig_0004:Root_M
+  - first:
+      1: 100108
+    second: crow_rig_0004:Scapula_L
+  - first:
+      1: 100110
+    second: crow_rig_0004:Scapula_R
+  - first:
+      1: 100112
+    second: crow_rig_0004:Shoulder_L
+  - first:
+      1: 100114
+    second: crow_rig_0004:Shoulder_R
+  - first:
+      1: 100116
+    second: crow_rig_0004:Spine1_M
+  - first:
+      1: 100118
+    second: crow_rig_0004:Tail1_M
+  - first:
+      1: 100120
+    second: crow_rig_0004:Tail2_M
+  - first:
+      1: 100122
+    second: crow_rig_0004:Tail3_M
+  - first:
+      1: 100124
+    second: crow_rig_0004:Tail3ASide_L
+  - first:
+      1: 100126
+    second: crow_rig_0004:Tail3ASide_R
+  - first:
+      1: 100128
+    second: crow_rig_0004:Tail3End_M
+  - first:
+      1: 100130
+    second: crow_rig_0004:Tail3Side_L
+  - first:
+      1: 100132
+    second: crow_rig_0004:Tail3Side_R
+  - first:
+      1: 100134
+    second: crow_rig_0004:Tail3SideEnd_L
+  - first:
+      1: 100136
+    second: crow_rig_0004:Tail3SideEnd_R
+  - first:
+      1: 100138
+    second: crow_rig_0004:Toes_L
+  - first:
+      1: 100140
+    second: crow_rig_0004:Toes_R
+  - first:
+      1: 100142
+    second: crow_rig_0004:ToesEnd_L
+  - first:
+      1: 100144
+    second: crow_rig_0004:ToesEnd_R
+  - first:
+      1: 100146
+    second: crow_rig_0004:Wrist_L
+  - first:
+      1: 100148
+    second: crow_rig_0004:Wrist_R
+  - first:
+      1: 100150
+    second: //RootNode
+  - first:
+      1: 100152
+    second: scarecrow_rig_0004:Ankle_L
+  - first:
+      1: 100154
+    second: scarecrow_rig_0004:Ankle_R
+  - first:
+      1: 100156
+    second: scarecrow_rig_0004:body
+  - first:
+      1: 100158
+    second: scarecrow_rig_0004:body 1
+  - first:
+      1: 100160
+    second: scarecrow_rig_0004:cap
+  - first:
+      1: 100162
+    second: scarecrow_rig_0004:Chest_M
+  - first:
+      1: 100164
+    second: scarecrow_rig_0004:DeformationSystem
+  - first:
+      1: 100166
+    second: scarecrow_rig_0004:Elbow_L
+  - first:
+      1: 100168
+    second: scarecrow_rig_0004:Elbow_R
+  - first:
+      1: 100170
+    second: scarecrow_rig_0004:extrajnt
+  - first:
+      1: 100172
+    second: scarecrow_rig_0004:Geometry
+  - first:
+      1: 100174
+    second: scarecrow_rig_0004:Group
+  - first:
+      1: 100176
+    second: scarecrow_rig_0004:Head_M
+  - first:
+      1: 100178
+    second: scarecrow_rig_0004:HeadEnd_M
+  - first:
+      1: 100180
+    second: scarecrow_rig_0004:Hip_L
+  - first:
+      1: 100182
+    second: scarecrow_rig_0004:Hip_R
+  - first:
+      1: 100184
+    second: scarecrow_rig_0004:IndexFinger1_L
+  - first:
+      1: 100186
+    second: scarecrow_rig_0004:IndexFinger1_R
+  - first:
+      1: 100188
+    second: scarecrow_rig_0004:IndexFinger2_L
+  - first:
+      1: 100190
+    second: scarecrow_rig_0004:IndexFinger2_R
+  - first:
+      1: 100192
+    second: scarecrow_rig_0004:IndexFinger3_L
+  - first:
+      1: 100194
+    second: scarecrow_rig_0004:IndexFinger3_R
+  - first:
+      1: 100196
+    second: scarecrow_rig_0004:IndexFinger4_L
+  - first:
+      1: 100198
+    second: scarecrow_rig_0004:IndexFinger4_R
+  - first:
+      1: 100200
+    second: scarecrow_rig_0004:Jaw_M
+  - first:
+      1: 100202
+    second: scarecrow_rig_0004:JawEnd_M
+  - first:
+      1: 100204
+    second: scarecrow_rig_0004:jnt_cap
+  - first:
+      1: 100206
+    second: scarecrow_rig_0004:joint1
+  - first:
+      1: 100208
+    second: scarecrow_rig_0004:Knee_L
+  - first:
+      1: 100210
+    second: scarecrow_rig_0004:Knee_R
+  - first:
+      1: 100212
+    second: scarecrow_rig_0004:Main
+  - first:
+      1: 100214
+    second: scarecrow_rig_0004:MiddleFinger1_L
+  - first:
+      1: 100216
+    second: scarecrow_rig_0004:MiddleFinger1_R
+  - first:
+      1: 100218
+    second: scarecrow_rig_0004:MiddleFinger2_L
+  - first:
+      1: 100220
+    second: scarecrow_rig_0004:MiddleFinger2_R
+  - first:
+      1: 100222
+    second: scarecrow_rig_0004:MiddleFinger3_L
+  - first:
+      1: 100224
+    second: scarecrow_rig_0004:MiddleFinger3_R
+  - first:
+      1: 100226
+    second: scarecrow_rig_0004:MiddleFinger4_L
+  - first:
+      1: 100228
+    second: scarecrow_rig_0004:MiddleFinger4_R
+  - first:
+      1: 100230
+    second: scarecrow_rig_0004:Neck_M
+  - first:
+      1: 100232
+    second: scarecrow_rig_0004:paint
+  - first:
+      1: 100234
+    second: scarecrow_rig_0004:pent2
+  - first:
+      1: 100236
+    second: scarecrow_rig_0004:PinkyFinger1_L
+  - first:
+      1: 100238
+    second: scarecrow_rig_0004:PinkyFinger1_R
+  - first:
+      1: 100240
+    second: scarecrow_rig_0004:PinkyFinger2_L
+  - first:
+      1: 100242
+    second: scarecrow_rig_0004:PinkyFinger2_R
+  - first:
+      1: 100244
+    second: scarecrow_rig_0004:PinkyFinger3_L
+  - first:
+      1: 100246
+    second: scarecrow_rig_0004:PinkyFinger3_R
+  - first:
+      1: 100248
+    second: scarecrow_rig_0004:PinkyFinger4_L
+  - first:
+      1: 100250
+    second: scarecrow_rig_0004:PinkyFinger4_R
+  - first:
+      1: 100252
+    second: scarecrow_rig_0004:polySurface1
+  - first:
+      1: 100254
+    second: scarecrow_rig_0004:polySurface2
+  - first:
+      1: 100256
+    second: scarecrow_rig_0004:pSphere5polySurface12
+  - first:
+      1: 100258
+    second: scarecrow_rig_0004:RingFinger1_L
+  - first:
+      1: 100260
+    second: scarecrow_rig_0004:RingFinger1_R
+  - first:
+      1: 100262
+    second: scarecrow_rig_0004:RingFinger2_L
+  - first:
+      1: 100264
+    second: scarecrow_rig_0004:RingFinger2_R
+  - first:
+      1: 100266
+    second: scarecrow_rig_0004:RingFinger3_L
+  - first:
+      1: 100268
+    second: scarecrow_rig_0004:RingFinger3_R
+  - first:
+      1: 100270
+    second: scarecrow_rig_0004:RingFinger4_L
+  - first:
+      1: 100272
+    second: scarecrow_rig_0004:RingFinger4_R
+  - first:
+      1: 100274
+    second: scarecrow_rig_0004:Root_M
+  - first:
+      1: 100276
+    second: scarecrow_rig_0004:Scapula_L
+  - first:
+      1: 100278
+    second: scarecrow_rig_0004:Scapula_R
+  - first:
+      1: 100280
+    second: scarecrow_rig_0004:scarecrow:pSphere5polySurface10
+  - first:
+      1: 100282
+    second: scarecrow_rig_0004:shir1
+  - first:
+      1: 100284
+    second: scarecrow_rig_0004:shoes
+  - first:
+      1: 100286
+    second: scarecrow_rig_0004:Shoulder_L
+  - first:
+      1: 100288
+    second: scarecrow_rig_0004:Shoulder_R
+  - first:
+      1: 100290
+    second: scarecrow_rig_0004:ShoulderPart1_L
+  - first:
+      1: 100292
+    second: scarecrow_rig_0004:ShoulderPart1_R
+  - first:
+      1: 100294
+    second: scarecrow_rig_0004:ShoulderPart2_L
+  - first:
+      1: 100296
+    second: scarecrow_rig_0004:ShoulderPart2_R
+  - first:
+      1: 100298
+    second: scarecrow_rig_0004:Spine1_M
+  - first:
+      1: 100300
+    second: scarecrow_rig_0004:ThumbFinger1_L
+  - first:
+      1: 100302
+    second: scarecrow_rig_0004:ThumbFinger1_R
+  - first:
+      1: 100304
+    second: scarecrow_rig_0004:ThumbFinger2_L
+  - first:
+      1: 100306
+    second: scarecrow_rig_0004:ThumbFinger2_R
+  - first:
+      1: 100308
+    second: scarecrow_rig_0004:ThumbFinger3_L
+  - first:
+      1: 100310
+    second: scarecrow_rig_0004:ThumbFinger3_R
+  - first:
+      1: 100312
+    second: scarecrow_rig_0004:ThumbFinger4_L
+  - first:
+      1: 100314
+    second: scarecrow_rig_0004:ThumbFinger4_R
+  - first:
+      1: 100316
+    second: scarecrow_rig_0004:Toes_L
+  - first:
+      1: 100318
+    second: scarecrow_rig_0004:Toes_R
+  - first:
+      1: 100320
+    second: scarecrow_rig_0004:ToesEnd_L
+  - first:
+      1: 100322
+    second: scarecrow_rig_0004:ToesEnd_R
+  - first:
+      1: 100324
+    second: scarecrow_rig_0004:Wrist_L
+  - first:
+      1: 100326
+    second: scarecrow_rig_0004:Wrist_R
+  - first:
+      1: 100328
+    second: stick:nurbsCircle1
+  - first:
+      1: 100330
+    second: stick:pCylinder3
+  - first:
+      4: 400000
+    second: crow_rig_0004:Ankle_L
+  - first:
+      4: 400002
+    second: crow_rig_0004:Ankle_R
+  - first:
+      4: 400004
+    second: crow_rig_0004:Chest_M
+  - first:
+      4: 400006
+    second: crow_rig_0004:DeformationSystem
+  - first:
+      4: 400008
+    second: crow_rig_0004:Elbow_L
+  - first:
+      4: 400010
+    second: crow_rig_0004:Elbow_R
+  - first:
+      4: 400012
+    second: crow_rig_0004:Eye_L
+  - first:
+      4: 400014
+    second: crow_rig_0004:Eye_R
+  - first:
+      4: 400016
+    second: crow_rig_0004:EyeEnd_L
+  - first:
+      4: 400018
+    second: crow_rig_0004:EyeEnd_R
+  - first:
+      4: 400020
+    second: crow_rig_0004:facial
+  - first:
+      4: 400022
+    second: crow_rig_0004:Group
+  - first:
+      4: 400024
+    second: crow_rig_0004:group1
+  - first:
+      4: 400026
+    second: crow_rig_0004:Head_M
+  - first:
+      4: 400028
+    second: crow_rig_0004:HeadEnd_M
+  - first:
+      4: 400030
+    second: crow_rig_0004:Hip_L
+  - first:
+      4: 400032
+    second: crow_rig_0004:Hip_R
+  - first:
+      4: 400034
+    second: crow_rig_0004:IndexFinger1_L
+  - first:
+      4: 400036
+    second: crow_rig_0004:IndexFinger1_R
+  - first:
+      4: 400038
+    second: crow_rig_0004:IndexFinger2_L
+  - first:
+      4: 400040
+    second: crow_rig_0004:IndexFinger2_R
+  - first:
+      4: 400042
+    second: crow_rig_0004:Jaw_M
+  - first:
+      4: 400044
+    second: crow_rig_0004:JawEnd_M
+  - first:
+      4: 400046
+    second: crow_rig_0004:jnt_toungh_01
+  - first:
+      4: 400048
+    second: crow_rig_0004:jnt_toungh_02
+  - first:
+      4: 400050
+    second: crow_rig_0004:jnt_toungh_03
+  - first:
+      4: 400052
+    second: crow_rig_0004:jnt_toungh_04
+  - first:
+      4: 400054
+    second: crow_rig_0004:jnt_toungh_05
+  - first:
+      4: 400056
+    second: crow_rig_0004:jnt_toungh_06
+  - first:
+      4: 400058
+    second: crow_rig_0004:jnt_toungh_07
+  - first:
+      4: 400060
+    second: crow_rig_0004:jnt_toungh_08
+  - first:
+      4: 400062
+    second: crow_rig_0004:Knee_L
+  - first:
+      4: 400064
+    second: crow_rig_0004:Knee_R
+  - first:
+      4: 400066
+    second: crow_rig_0004:Leye1
+  - first:
+      4: 400068
+    second: crow_rig_0004:Main
+  - first:
+      4: 400070
+    second: crow_rig_0004:Neck_M
+  - first:
+      4: 400072
+    second: crow_rig_0004:nurbsCircle10
+  - first:
+      4: 400074
+    second: crow_rig_0004:nurbsCircle11
+  - first:
+      4: 400076
+    second: crow_rig_0004:nurbsCircle12
+  - first:
+      4: 400078
+    second: crow_rig_0004:nurbsCircle13
+  - first:
+      4: 400080
+    second: crow_rig_0004:nurbsCircle9
+  - first:
+      4: 400082
+    second: crow_rig_0004:nurbsCircle9 1
+  - first:
+      4: 400084
+    second: crow_rig_0004:nurbsCircle9 2
+  - first:
+      4: 400086
+    second: crow_rig_0004:nurbsCircle9 3
+  - first:
+      4: 400088
+    second: crow_rig_0004:polySurface1
+  - first:
+      4: 400090
+    second: crow_rig_0004:polySurface10
+  - first:
+      4: 400092
+    second: crow_rig_0004:polySurface12
+  - first:
+      4: 400094
+    second: crow_rig_0004:polySurface14
+  - first:
+      4: 400096
+    second: crow_rig_0004:polySurface15
+  - first:
+      4: 400098
+    second: crow_rig_0004:polySurface16
+  - first:
+      4: 400100
+    second: crow_rig_0004:polySurface17
+  - first:
+      4: 400102
+    second: crow_rig_0004:polySurface18
+  - first:
+      4: 400104
+    second: crow_rig_0004:R_eye1
+  - first:
+      4: 400106
+    second: crow_rig_0004:Root_M
+  - first:
+      4: 400108
+    second: crow_rig_0004:Scapula_L
+  - first:
+      4: 400110
+    second: crow_rig_0004:Scapula_R
+  - first:
+      4: 400112
+    second: crow_rig_0004:Shoulder_L
+  - first:
+      4: 400114
+    second: crow_rig_0004:Shoulder_R
+  - first:
+      4: 400116
+    second: crow_rig_0004:Spine1_M
+  - first:
+      4: 400118
+    second: crow_rig_0004:Tail1_M
+  - first:
+      4: 400120
+    second: crow_rig_0004:Tail2_M
+  - first:
+      4: 400122
+    second: crow_rig_0004:Tail3_M
+  - first:
+      4: 400124
+    second: crow_rig_0004:Tail3ASide_L
+  - first:
+      4: 400126
+    second: crow_rig_0004:Tail3ASide_R
+  - first:
+      4: 400128
+    second: crow_rig_0004:Tail3End_M
+  - first:
+      4: 400130
+    second: crow_rig_0004:Tail3Side_L
+  - first:
+      4: 400132
+    second: crow_rig_0004:Tail3Side_R
+  - first:
+      4: 400134
+    second: crow_rig_0004:Tail3SideEnd_L
+  - first:
+      4: 400136
+    second: crow_rig_0004:Tail3SideEnd_R
+  - first:
+      4: 400138
+    second: crow_rig_0004:Toes_L
+  - first:
+      4: 400140
+    second: crow_rig_0004:Toes_R
+  - first:
+      4: 400142
+    second: crow_rig_0004:ToesEnd_L
+  - first:
+      4: 400144
+    second: crow_rig_0004:ToesEnd_R
+  - first:
+      4: 400146
+    second: crow_rig_0004:Wrist_L
+  - first:
+      4: 400148
+    second: crow_rig_0004:Wrist_R
+  - first:
+      4: 400150
+    second: //RootNode
+  - first:
+      4: 400152
+    second: scarecrow_rig_0004:Ankle_L
+  - first:
+      4: 400154
+    second: scarecrow_rig_0004:Ankle_R
+  - first:
+      4: 400156
+    second: scarecrow_rig_0004:body
+  - first:
+      4: 400158
+    second: scarecrow_rig_0004:body 1
+  - first:
+      4: 400160
+    second: scarecrow_rig_0004:cap
+  - first:
+      4: 400162
+    second: scarecrow_rig_0004:Chest_M
+  - first:
+      4: 400164
+    second: scarecrow_rig_0004:DeformationSystem
+  - first:
+      4: 400166
+    second: scarecrow_rig_0004:Elbow_L
+  - first:
+      4: 400168
+    second: scarecrow_rig_0004:Elbow_R
+  - first:
+      4: 400170
+    second: scarecrow_rig_0004:extrajnt
+  - first:
+      4: 400172
+    second: scarecrow_rig_0004:Geometry
+  - first:
+      4: 400174
+    second: scarecrow_rig_0004:Group
+  - first:
+      4: 400176
+    second: scarecrow_rig_0004:Head_M
+  - first:
+      4: 400178
+    second: scarecrow_rig_0004:HeadEnd_M
+  - first:
+      4: 400180
+    second: scarecrow_rig_0004:Hip_L
+  - first:
+      4: 400182
+    second: scarecrow_rig_0004:Hip_R
+  - first:
+      4: 400184
+    second: scarecrow_rig_0004:IndexFinger1_L
+  - first:
+      4: 400186
+    second: scarecrow_rig_0004:IndexFinger1_R
+  - first:
+      4: 400188
+    second: scarecrow_rig_0004:IndexFinger2_L
+  - first:
+      4: 400190
+    second: scarecrow_rig_0004:IndexFinger2_R
+  - first:
+      4: 400192
+    second: scarecrow_rig_0004:IndexFinger3_L
+  - first:
+      4: 400194
+    second: scarecrow_rig_0004:IndexFinger3_R
+  - first:
+      4: 400196
+    second: scarecrow_rig_0004:IndexFinger4_L
+  - first:
+      4: 400198
+    second: scarecrow_rig_0004:IndexFinger4_R
+  - first:
+      4: 400200
+    second: scarecrow_rig_0004:Jaw_M
+  - first:
+      4: 400202
+    second: scarecrow_rig_0004:JawEnd_M
+  - first:
+      4: 400204
+    second: scarecrow_rig_0004:jnt_cap
+  - first:
+      4: 400206
+    second: scarecrow_rig_0004:joint1
+  - first:
+      4: 400208
+    second: scarecrow_rig_0004:Knee_L
+  - first:
+      4: 400210
+    second: scarecrow_rig_0004:Knee_R
+  - first:
+      4: 400212
+    second: scarecrow_rig_0004:Main
+  - first:
+      4: 400214
+    second: scarecrow_rig_0004:MiddleFinger1_L
+  - first:
+      4: 400216
+    second: scarecrow_rig_0004:MiddleFinger1_R
+  - first:
+      4: 400218
+    second: scarecrow_rig_0004:MiddleFinger2_L
+  - first:
+      4: 400220
+    second: scarecrow_rig_0004:MiddleFinger2_R
+  - first:
+      4: 400222
+    second: scarecrow_rig_0004:MiddleFinger3_L
+  - first:
+      4: 400224
+    second: scarecrow_rig_0004:MiddleFinger3_R
+  - first:
+      4: 400226
+    second: scarecrow_rig_0004:MiddleFinger4_L
+  - first:
+      4: 400228
+    second: scarecrow_rig_0004:MiddleFinger4_R
+  - first:
+      4: 400230
+    second: scarecrow_rig_0004:Neck_M
+  - first:
+      4: 400232
+    second: scarecrow_rig_0004:paint
+  - first:
+      4: 400234
+    second: scarecrow_rig_0004:pent2
+  - first:
+      4: 400236
+    second: scarecrow_rig_0004:PinkyFinger1_L
+  - first:
+      4: 400238
+    second: scarecrow_rig_0004:PinkyFinger1_R
+  - first:
+      4: 400240
+    second: scarecrow_rig_0004:PinkyFinger2_L
+  - first:
+      4: 400242
+    second: scarecrow_rig_0004:PinkyFinger2_R
+  - first:
+      4: 400244
+    second: scarecrow_rig_0004:PinkyFinger3_L
+  - first:
+      4: 400246
+    second: scarecrow_rig_0004:PinkyFinger3_R
+  - first:
+      4: 400248
+    second: scarecrow_rig_0004:PinkyFinger4_L
+  - first:
+      4: 400250
+    second: scarecrow_rig_0004:PinkyFinger4_R
+  - first:
+      4: 400252
+    second: scarecrow_rig_0004:polySurface1
+  - first:
+      4: 400254
+    second: scarecrow_rig_0004:polySurface2
+  - first:
+      4: 400256
+    second: scarecrow_rig_0004:pSphere5polySurface12
+  - first:
+      4: 400258
+    second: scarecrow_rig_0004:RingFinger1_L
+  - first:
+      4: 400260
+    second: scarecrow_rig_0004:RingFinger1_R
+  - first:
+      4: 400262
+    second: scarecrow_rig_0004:RingFinger2_L
+  - first:
+      4: 400264
+    second: scarecrow_rig_0004:RingFinger2_R
+  - first:
+      4: 400266
+    second: scarecrow_rig_0004:RingFinger3_L
+  - first:
+      4: 400268
+    second: scarecrow_rig_0004:RingFinger3_R
+  - first:
+      4: 400270
+    second: scarecrow_rig_0004:RingFinger4_L
+  - first:
+      4: 400272
+    second: scarecrow_rig_0004:RingFinger4_R
+  - first:
+      4: 400274
+    second: scarecrow_rig_0004:Root_M
+  - first:
+      4: 400276
+    second: scarecrow_rig_0004:Scapula_L
+  - first:
+      4: 400278
+    second: scarecrow_rig_0004:Scapula_R
+  - first:
+      4: 400280
+    second: scarecrow_rig_0004:scarecrow:pSphere5polySurface10
+  - first:
+      4: 400282
+    second: scarecrow_rig_0004:shir1
+  - first:
+      4: 400284
+    second: scarecrow_rig_0004:shoes
+  - first:
+      4: 400286
+    second: scarecrow_rig_0004:Shoulder_L
+  - first:
+      4: 400288
+    second: scarecrow_rig_0004:Shoulder_R
+  - first:
+      4: 400290
+    second: scarecrow_rig_0004:ShoulderPart1_L
+  - first:
+      4: 400292
+    second: scarecrow_rig_0004:ShoulderPart1_R
+  - first:
+      4: 400294
+    second: scarecrow_rig_0004:ShoulderPart2_L
+  - first:
+      4: 400296
+    second: scarecrow_rig_0004:ShoulderPart2_R
+  - first:
+      4: 400298
+    second: scarecrow_rig_0004:Spine1_M
+  - first:
+      4: 400300
+    second: scarecrow_rig_0004:ThumbFinger1_L
+  - first:
+      4: 400302
+    second: scarecrow_rig_0004:ThumbFinger1_R
+  - first:
+      4: 400304
+    second: scarecrow_rig_0004:ThumbFinger2_L
+  - first:
+      4: 400306
+    second: scarecrow_rig_0004:ThumbFinger2_R
+  - first:
+      4: 400308
+    second: scarecrow_rig_0004:ThumbFinger3_L
+  - first:
+      4: 400310
+    second: scarecrow_rig_0004:ThumbFinger3_R
+  - first:
+      4: 400312
+    second: scarecrow_rig_0004:ThumbFinger4_L
+  - first:
+      4: 400314
+    second: scarecrow_rig_0004:ThumbFinger4_R
+  - first:
+      4: 400316
+    second: scarecrow_rig_0004:Toes_L
+  - first:
+      4: 400318
+    second: scarecrow_rig_0004:Toes_R
+  - first:
+      4: 400320
+    second: scarecrow_rig_0004:ToesEnd_L
+  - first:
+      4: 400322
+    second: scarecrow_rig_0004:ToesEnd_R
+  - first:
+      4: 400324
+    second: scarecrow_rig_0004:Wrist_L
+  - first:
+      4: 400326
+    second: scarecrow_rig_0004:Wrist_R
+  - first:
+      4: 400328
+    second: stick:nurbsCircle1
+  - first:
+      4: 400330
+    second: stick:pCylinder3
+  - first:
+      23: 2300000
+    second: stick:pCylinder3
+  - first:
+      33: 3300000
+    second: stick:pCylinder3
+  - first:
+      43: 4300000
+    second: crow_rig_0004:polySurface18
+  - first:
+      43: 4300002
+    second: crow_rig_0004:polySurface17
+  - first:
+      43: 4300004
+    second: crow_rig_0004:polySurface16
+  - first:
+      43: 4300006
+    second: crow_rig_0004:polySurface15
+  - first:
+      43: 4300008
+    second: crow_rig_0004:polySurface14
+  - first:
+      43: 4300010
+    second: crow_rig_0004:polySurface10
+  - first:
+      43: 4300012
+    second: crow_rig_0004:polySurface12
+  - first:
+      43: 4300014
+    second: crow_rig_0004:Leye1
+  - first:
+      43: 4300016
+    second: crow_rig_0004:R_eye1
+  - first:
+      43: 4300018
+    second: stick:pCylinder3
+  - first:
+      43: 4300020
+    second: scarecrow_rig_0004:shoes
+  - first:
+      43: 4300022
+    second: scarecrow_rig_0004:cap
+  - first:
+      43: 4300024
+    second: scarecrow_rig_0004:pSphere5polySurface12
+  - first:
+      43: 4300026
+    second: scarecrow_rig_0004:body
+  - first:
+      43: 4300028
+    second: scarecrow_rig_0004:scarecrow:pSphere5polySurface10
+  - first:
+      43: 4300030
+    second: scarecrow_rig_0004:polySurface1
+  - first:
+      43: 4300032
+    second: scarecrow_rig_0004:polySurface2
+  - first:
+      43: 4300034
+    second: scarecrow_rig_0004:paint
+  - first:
+      43: 4300036
+    second: scarecrow_rig_0004:shir1
+  - first:
+      74: 7400000
+    second: scareCrow
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: crow_rig_0004:Leye1
+  - first:
+      137: 13700002
+    second: crow_rig_0004:polySurface10
+  - first:
+      137: 13700004
+    second: crow_rig_0004:polySurface12
+  - first:
+      137: 13700006
+    second: crow_rig_0004:polySurface14
+  - first:
+      137: 13700008
+    second: crow_rig_0004:polySurface15
+  - first:
+      137: 13700010
+    second: crow_rig_0004:polySurface16
+  - first:
+      137: 13700012
+    second: crow_rig_0004:polySurface17
+  - first:
+      137: 13700014
+    second: crow_rig_0004:polySurface18
+  - first:
+      137: 13700016
+    second: crow_rig_0004:R_eye1
+  - first:
+      137: 13700018
+    second: scarecrow_rig_0004:body 1
+  - first:
+      137: 13700020
+    second: scarecrow_rig_0004:cap
+  - first:
+      137: 13700022
+    second: scarecrow_rig_0004:paint
+  - first:
+      137: 13700024
+    second: scarecrow_rig_0004:polySurface1
+  - first:
+      137: 13700026
+    second: scarecrow_rig_0004:polySurface2
+  - first:
+      137: 13700028
+    second: scarecrow_rig_0004:pSphere5polySurface12
+  - first:
+      137: 13700030
+    second: scarecrow_rig_0004:scarecrow:pSphere5polySurface10
+  - first:
+      137: 13700032
+    second: scarecrow_rig_0004:shir1
+  - first:
+      137: 13700034
+    second: scarecrow_rig_0004:shoes
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crow_rig_0004_lambert2
+    second: {fileID: 2100000, guid: 5a19382d444be439694329fb1fcb9b69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: de80a2173cdf840c89893c20049a2b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scarecrow_rig_0004_lambert2
+    second: {fileID: 2100000, guid: c01a1bf775a6a4369a9c391af0c5ba67, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: scareCrow
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: crow_rig_0004:facial
+        weight: 1
+      - path: crow_rig_0004:facial/crow_rig_0004:nurbsCircle10
+        weight: 1
+      - path: crow_rig_0004:facial/crow_rig_0004:nurbsCircle10/crow_rig_0004:nurbsCircle9
+        weight: 1
+      - path: crow_rig_0004:facial/crow_rig_0004:nurbsCircle11
+        weight: 1
+      - path: crow_rig_0004:facial/crow_rig_0004:nurbsCircle11/crow_rig_0004:nurbsCircle9
+          1
+        weight: 1
+      - path: crow_rig_0004:facial/crow_rig_0004:nurbsCircle12
+        weight: 1
+      - path: crow_rig_0004:facial/crow_rig_0004:nurbsCircle12/crow_rig_0004:nurbsCircle9
+          2
+        weight: 1
+      - path: crow_rig_0004:facial/crow_rig_0004:nurbsCircle13
+        weight: 1
+      - path: crow_rig_0004:facial/crow_rig_0004:nurbsCircle13/crow_rig_0004:nurbsCircle9
+          3
+        weight: 1
+      - path: crow_rig_0004:Group
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Hip_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Hip_L/crow_rig_0004:Knee_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Hip_L/crow_rig_0004:Knee_L/crow_rig_0004:Ankle_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Hip_L/crow_rig_0004:Knee_L/crow_rig_0004:Ankle_L/crow_rig_0004:Toes_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Hip_L/crow_rig_0004:Knee_L/crow_rig_0004:Ankle_L/crow_rig_0004:Toes_L/crow_rig_0004:ToesEnd_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Hip_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Hip_R/crow_rig_0004:Knee_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Hip_R/crow_rig_0004:Knee_R/crow_rig_0004:Ankle_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Hip_R/crow_rig_0004:Knee_R/crow_rig_0004:Ankle_R/crow_rig_0004:Toes_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Hip_R/crow_rig_0004:Knee_R/crow_rig_0004:Ankle_R/crow_rig_0004:Toes_R/crow_rig_0004:ToesEnd_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Neck_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Neck_M/crow_rig_0004:Head_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Neck_M/crow_rig_0004:Head_M/crow_rig_0004:Eye_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Neck_M/crow_rig_0004:Head_M/crow_rig_0004:Eye_L/crow_rig_0004:EyeEnd_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Neck_M/crow_rig_0004:Head_M/crow_rig_0004:Eye_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Neck_M/crow_rig_0004:Head_M/crow_rig_0004:Eye_R/crow_rig_0004:EyeEnd_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Neck_M/crow_rig_0004:Head_M/crow_rig_0004:HeadEnd_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Neck_M/crow_rig_0004:Head_M/crow_rig_0004:Jaw_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Neck_M/crow_rig_0004:Head_M/crow_rig_0004:Jaw_M/crow_rig_0004:JawEnd_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_L/crow_rig_0004:Shoulder_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_L/crow_rig_0004:Shoulder_L/crow_rig_0004:Elbow_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_L/crow_rig_0004:Shoulder_L/crow_rig_0004:Elbow_L/crow_rig_0004:Wrist_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_L/crow_rig_0004:Shoulder_L/crow_rig_0004:Elbow_L/crow_rig_0004:Wrist_L/crow_rig_0004:IndexFinger1_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_L/crow_rig_0004:Shoulder_L/crow_rig_0004:Elbow_L/crow_rig_0004:Wrist_L/crow_rig_0004:IndexFinger1_L/crow_rig_0004:IndexFinger2_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_R/crow_rig_0004:Shoulder_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_R/crow_rig_0004:Shoulder_R/crow_rig_0004:Elbow_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_R/crow_rig_0004:Shoulder_R/crow_rig_0004:Elbow_R/crow_rig_0004:Wrist_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_R/crow_rig_0004:Shoulder_R/crow_rig_0004:Elbow_R/crow_rig_0004:Wrist_R/crow_rig_0004:IndexFinger1_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Spine1_M/crow_rig_0004:Chest_M/crow_rig_0004:Scapula_R/crow_rig_0004:Shoulder_R/crow_rig_0004:Elbow_R/crow_rig_0004:Wrist_R/crow_rig_0004:IndexFinger1_R/crow_rig_0004:IndexFinger2_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Tail1_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Tail1_M/crow_rig_0004:Tail2_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Tail1_M/crow_rig_0004:Tail2_M/crow_rig_0004:Tail3_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Tail1_M/crow_rig_0004:Tail2_M/crow_rig_0004:Tail3_M/crow_rig_0004:Tail3End_M
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Tail1_M/crow_rig_0004:Tail2_M/crow_rig_0004:Tail3ASide_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Tail1_M/crow_rig_0004:Tail2_M/crow_rig_0004:Tail3ASide_L/crow_rig_0004:Tail3Side_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Tail1_M/crow_rig_0004:Tail2_M/crow_rig_0004:Tail3ASide_L/crow_rig_0004:Tail3Side_L/crow_rig_0004:Tail3SideEnd_L
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Tail1_M/crow_rig_0004:Tail2_M/crow_rig_0004:Tail3ASide_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Tail1_M/crow_rig_0004:Tail2_M/crow_rig_0004:Tail3ASide_R/crow_rig_0004:Tail3Side_R
+        weight: 1
+      - path: crow_rig_0004:Group/crow_rig_0004:Main/crow_rig_0004:DeformationSystem/crow_rig_0004:Root_M/crow_rig_0004:Tail1_M/crow_rig_0004:Tail2_M/crow_rig_0004:Tail3ASide_R/crow_rig_0004:Tail3Side_R/crow_rig_0004:Tail3SideEnd_R
+        weight: 1
+      - path: crow_rig_0004:jnt_toungh_01
+        weight: 1
+      - path: crow_rig_0004:jnt_toungh_01/crow_rig_0004:jnt_toungh_02
+        weight: 1
+      - path: crow_rig_0004:jnt_toungh_01/crow_rig_0004:jnt_toungh_02/crow_rig_0004:jnt_toungh_08
+        weight: 1
+      - path: crow_rig_0004:jnt_toungh_01/crow_rig_0004:jnt_toungh_02/crow_rig_0004:jnt_toungh_08/crow_rig_0004:jnt_toungh_03
+        weight: 1
+      - path: crow_rig_0004:jnt_toungh_01/crow_rig_0004:jnt_toungh_02/crow_rig_0004:jnt_toungh_08/crow_rig_0004:jnt_toungh_03/crow_rig_0004:jnt_toungh_04
+        weight: 1
+      - path: crow_rig_0004:jnt_toungh_01/crow_rig_0004:jnt_toungh_02/crow_rig_0004:jnt_toungh_08/crow_rig_0004:jnt_toungh_03/crow_rig_0004:jnt_toungh_04/crow_rig_0004:jnt_toungh_05
+        weight: 1
+      - path: crow_rig_0004:jnt_toungh_01/crow_rig_0004:jnt_toungh_02/crow_rig_0004:jnt_toungh_08/crow_rig_0004:jnt_toungh_03/crow_rig_0004:jnt_toungh_04/crow_rig_0004:jnt_toungh_05/crow_rig_0004:jnt_toungh_06
+        weight: 1
+      - path: crow_rig_0004:jnt_toungh_01/crow_rig_0004:jnt_toungh_02/crow_rig_0004:jnt_toungh_08/crow_rig_0004:jnt_toungh_03/crow_rig_0004:jnt_toungh_04/crow_rig_0004:jnt_toungh_05/crow_rig_0004:jnt_toungh_06/crow_rig_0004:jnt_toungh_07
+        weight: 1
+      - path: crow_rig_0004:polySurface1
+        weight: 1
+      - path: crow_rig_0004:polySurface1/crow_rig_0004:group1
+        weight: 1
+      - path: crow_rig_0004:polySurface1/crow_rig_0004:group1/crow_rig_0004:Leye1
+        weight: 1
+      - path: crow_rig_0004:polySurface1/crow_rig_0004:group1/crow_rig_0004:polySurface10
+        weight: 1
+      - path: crow_rig_0004:polySurface1/crow_rig_0004:group1/crow_rig_0004:polySurface12
+        weight: 1
+      - path: crow_rig_0004:polySurface1/crow_rig_0004:group1/crow_rig_0004:polySurface14
+        weight: 1
+      - path: crow_rig_0004:polySurface1/crow_rig_0004:group1/crow_rig_0004:polySurface15
+        weight: 1
+      - path: crow_rig_0004:polySurface1/crow_rig_0004:group1/crow_rig_0004:polySurface16
+        weight: 1
+      - path: crow_rig_0004:polySurface1/crow_rig_0004:group1/crow_rig_0004:polySurface17
+        weight: 1
+      - path: crow_rig_0004:polySurface1/crow_rig_0004:group1/crow_rig_0004:polySurface18
+        weight: 1
+      - path: crow_rig_0004:polySurface1/crow_rig_0004:group1/crow_rig_0004:R_eye1
+        weight: 1
+      - path: scarecrow_rig_0004:Group
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body/scarecrow_rig_0004:body
+          1
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body/scarecrow_rig_0004:cap
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body/scarecrow_rig_0004:paint
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body/scarecrow_rig_0004:pent2
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body/scarecrow_rig_0004:pent2/scarecrow_rig_0004:polySurface1
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body/scarecrow_rig_0004:pent2/scarecrow_rig_0004:polySurface2
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body/scarecrow_rig_0004:pSphere5polySurface12
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body/scarecrow_rig_0004:scarecrow:pSphere5polySurface10
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body/scarecrow_rig_0004:shir1
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Geometry/scarecrow_rig_0004:body/scarecrow_rig_0004:shoes
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:extrajnt
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:extrajnt/scarecrow_rig_0004:joint1
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Hip_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Hip_L/scarecrow_rig_0004:Knee_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Hip_L/scarecrow_rig_0004:Knee_L/scarecrow_rig_0004:Ankle_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Hip_L/scarecrow_rig_0004:Knee_L/scarecrow_rig_0004:Ankle_L/scarecrow_rig_0004:Toes_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Hip_L/scarecrow_rig_0004:Knee_L/scarecrow_rig_0004:Ankle_L/scarecrow_rig_0004:Toes_L/scarecrow_rig_0004:ToesEnd_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Hip_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Hip_R/scarecrow_rig_0004:Knee_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Hip_R/scarecrow_rig_0004:Knee_R/scarecrow_rig_0004:Ankle_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Hip_R/scarecrow_rig_0004:Knee_R/scarecrow_rig_0004:Ankle_R/scarecrow_rig_0004:Toes_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Hip_R/scarecrow_rig_0004:Knee_R/scarecrow_rig_0004:Ankle_R/scarecrow_rig_0004:Toes_R/scarecrow_rig_0004:ToesEnd_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Neck_M
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Neck_M/scarecrow_rig_0004:Head_M
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Neck_M/scarecrow_rig_0004:Head_M/scarecrow_rig_0004:HeadEnd_M
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Neck_M/scarecrow_rig_0004:Head_M/scarecrow_rig_0004:HeadEnd_M/scarecrow_rig_0004:jnt_cap
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Neck_M/scarecrow_rig_0004:Head_M/scarecrow_rig_0004:Jaw_M
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Neck_M/scarecrow_rig_0004:Head_M/scarecrow_rig_0004:Jaw_M/scarecrow_rig_0004:JawEnd_M
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:IndexFinger1_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:IndexFinger1_L/scarecrow_rig_0004:IndexFinger2_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:IndexFinger1_L/scarecrow_rig_0004:IndexFinger2_L/scarecrow_rig_0004:IndexFinger3_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:IndexFinger1_L/scarecrow_rig_0004:IndexFinger2_L/scarecrow_rig_0004:IndexFinger3_L/scarecrow_rig_0004:IndexFinger4_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:MiddleFinger1_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:MiddleFinger1_L/scarecrow_rig_0004:MiddleFinger2_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:MiddleFinger1_L/scarecrow_rig_0004:MiddleFinger2_L/scarecrow_rig_0004:MiddleFinger3_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:MiddleFinger1_L/scarecrow_rig_0004:MiddleFinger2_L/scarecrow_rig_0004:MiddleFinger3_L/scarecrow_rig_0004:MiddleFinger4_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:PinkyFinger1_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:PinkyFinger1_L/scarecrow_rig_0004:PinkyFinger2_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:PinkyFinger1_L/scarecrow_rig_0004:PinkyFinger2_L/scarecrow_rig_0004:PinkyFinger3_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:PinkyFinger1_L/scarecrow_rig_0004:PinkyFinger2_L/scarecrow_rig_0004:PinkyFinger3_L/scarecrow_rig_0004:PinkyFinger4_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:RingFinger1_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:RingFinger1_L/scarecrow_rig_0004:RingFinger2_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:RingFinger1_L/scarecrow_rig_0004:RingFinger2_L/scarecrow_rig_0004:RingFinger3_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:RingFinger1_L/scarecrow_rig_0004:RingFinger2_L/scarecrow_rig_0004:RingFinger3_L/scarecrow_rig_0004:RingFinger4_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:ThumbFinger1_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:ThumbFinger1_L/scarecrow_rig_0004:ThumbFinger2_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:ThumbFinger1_L/scarecrow_rig_0004:ThumbFinger2_L/scarecrow_rig_0004:ThumbFinger3_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_L/scarecrow_rig_0004:Shoulder_L/scarecrow_rig_0004:ShoulderPart1_L/scarecrow_rig_0004:ShoulderPart2_L/scarecrow_rig_0004:Elbow_L/scarecrow_rig_0004:Wrist_L/scarecrow_rig_0004:ThumbFinger1_L/scarecrow_rig_0004:ThumbFinger2_L/scarecrow_rig_0004:ThumbFinger3_L/scarecrow_rig_0004:ThumbFinger4_L
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:IndexFinger1_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:IndexFinger1_R/scarecrow_rig_0004:IndexFinger2_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:IndexFinger1_R/scarecrow_rig_0004:IndexFinger2_R/scarecrow_rig_0004:IndexFinger3_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:IndexFinger1_R/scarecrow_rig_0004:IndexFinger2_R/scarecrow_rig_0004:IndexFinger3_R/scarecrow_rig_0004:IndexFinger4_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:MiddleFinger1_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:MiddleFinger1_R/scarecrow_rig_0004:MiddleFinger2_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:MiddleFinger1_R/scarecrow_rig_0004:MiddleFinger2_R/scarecrow_rig_0004:MiddleFinger3_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:MiddleFinger1_R/scarecrow_rig_0004:MiddleFinger2_R/scarecrow_rig_0004:MiddleFinger3_R/scarecrow_rig_0004:MiddleFinger4_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:PinkyFinger1_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:PinkyFinger1_R/scarecrow_rig_0004:PinkyFinger2_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:PinkyFinger1_R/scarecrow_rig_0004:PinkyFinger2_R/scarecrow_rig_0004:PinkyFinger3_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:PinkyFinger1_R/scarecrow_rig_0004:PinkyFinger2_R/scarecrow_rig_0004:PinkyFinger3_R/scarecrow_rig_0004:PinkyFinger4_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:RingFinger1_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:RingFinger1_R/scarecrow_rig_0004:RingFinger2_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:RingFinger1_R/scarecrow_rig_0004:RingFinger2_R/scarecrow_rig_0004:RingFinger3_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:RingFinger1_R/scarecrow_rig_0004:RingFinger2_R/scarecrow_rig_0004:RingFinger3_R/scarecrow_rig_0004:RingFinger4_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:ThumbFinger1_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:ThumbFinger1_R/scarecrow_rig_0004:ThumbFinger2_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:ThumbFinger1_R/scarecrow_rig_0004:ThumbFinger2_R/scarecrow_rig_0004:ThumbFinger3_R
+        weight: 1
+      - path: scarecrow_rig_0004:Group/scarecrow_rig_0004:Main/scarecrow_rig_0004:DeformationSystem/scarecrow_rig_0004:Root_M/scarecrow_rig_0004:Spine1_M/scarecrow_rig_0004:Chest_M/scarecrow_rig_0004:Scapula_R/scarecrow_rig_0004:Shoulder_R/scarecrow_rig_0004:ShoulderPart1_R/scarecrow_rig_0004:ShoulderPart2_R/scarecrow_rig_0004:Elbow_R/scarecrow_rig_0004:Wrist_R/scarecrow_rig_0004:ThumbFinger1_R/scarecrow_rig_0004:ThumbFinger2_R/scarecrow_rig_0004:ThumbFinger3_R/scarecrow_rig_0004:ThumbFinger4_R
+        weight: 1
+      - path: stick:nurbsCircle1
+        weight: 1
+      - path: stick:nurbsCircle1/stick:pCylinder3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: scarecrow
+  assetBundleVariant: 
